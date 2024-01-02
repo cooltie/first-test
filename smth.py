@@ -1,1 +1,3 @@
-print('we love you','stop all wars!')
+name = input()
+print("we love you", "stop all wars!")
+пше
